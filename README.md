@@ -1,3 +1,3 @@
 # homework_wwh
 
-Study git
+Study git. This is only test.
